@@ -1,0 +1,42 @@
+[
+  {
+    "author": [
+      {
+        "given": "E",
+        "family": "Prochazkova"
+      },
+      {
+        "given": "E",
+        "family": "Sjak-Shie"
+      },
+      {
+        "given": "F",
+        "family": "Behrens"
+      },
+      {
+        "given": "D",
+        "family": "Lindh"
+      },
+      {
+        "given": "ME",
+        "family": "Kret"
+      }
+    ],
+    "container-title": "Nature Human Behaviour",
+    "id": "IG2022CARDIOLOGY-json",
+    "citation-label": "IG2022CARDIOLOGY",
+    "issue": 2,
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "269-278",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Physiological synchrony is associated with attraction in a blind date setting",
+    "type": "article-journal",
+    "volume": 6
+  }
+]
